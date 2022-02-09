@@ -155,5 +155,5 @@ To execute the project, it will be necessary to install / use the following appl
 
 ## Technologies
 * **Backend**: A RESTful API was created using Node.js, Express, Cors. This API was integrated into an SQLite database using Knex. At the end of the development process, data validation on the routes was implemented using the Celebrate library. Unit and integration tests were developed using the Jest, Supertest and cross-environment libraries.
-* **Website**: ReactJS.
+* **Frontend**: HTML, CSS, Javascript/Typescript and ReactJS.
 * **Mobile**: React Native and Expo.
